@@ -9,11 +9,11 @@ Both of them show us what the dir command is used to, the syntax and what the di
 
 These two articles also give us their outlines at the beginning ,so that we can quickly find what we want.
 
-The introduction on the first site,Microsoft Learn is quite normal，comprehensive and detailed；while the second one,Life Wire, is simple.
+The introduction on the Microsoft Learn is quite normal，comprehensive and detailed；while the one on Life Wire is simple.
 
 We should notice although dir is a simple and common command ,it can display different content with different switches.For example
 
-"dir /b" only displays the name of the folders and files in the current directory and not attributes like file size and time stamps.
+"dir /b" displays only the name of the folders and files in the current directory and not attributes like file size and time stamps.
 
 
 
