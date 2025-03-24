@@ -6,7 +6,9 @@ One is from microsoft learn,which is a authoritative website；the other one is 
 
 Both of them show us what is the dir command used to,Syntax,what are the different Parameters display.And the most advantage is both of them give us several examples,which is good for beginners.
 
-The first one,Microsoft Learn is quite normal and including every details,while the second one,Life Wire, 
+These two sites also give us the outline at the begining of the article,so that we can quickly find what we want to find.
+
+The introduction on the first site,Microsoft Learn is quite normal，comprehensive and detailed；while the second one,Life Wire, is simple.
 
 
 
@@ -15,4 +17,6 @@ The first one,Microsoft Learn is quite normal and including every details,while 
 
 
 
-[dir command from microsoft learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
+[Dir from microsoft learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
+
+[dir command from life wire](https://www.lifewire.com/dir-command-4050018)
