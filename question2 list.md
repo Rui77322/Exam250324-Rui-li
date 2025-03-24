@@ -8,7 +8,7 @@ A reboot make the computer at its initial state and start fresh,then application
 
 ## 2.What program, application, or tool are you using when this problem occurs?
 
-Sometimes some special programs,applications or tools can lead to the computer slow down.So,it is important for us to know what applications 
+Sometimes some special programs,applications or tools can lead to the computer slowdown.So,it is important for us to know what applications 
 
 we are using ,downloading or uploading.We can reboot or examine them.
 
