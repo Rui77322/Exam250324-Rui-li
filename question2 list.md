@@ -14,9 +14,7 @@ we are using ,downloading or uploading.We can reboot or examine them.
 
 ## 3.Do you check for Viruses and Malware?
 
-Viruses and Malware are typically designed to overoccupy your computer resources to run some applications you don't want,which leads to a slow computer.So we need to search “Windows Security” to 
-
-check all security options or employ some other antivirus programs available online.
+Viruses and Malware are typically designed to occupy the computer resources to run some applications you don't want,which leads to a slow computer.So we need to search “Windows Security” to check all security options or employ some other antivirus programs available online.
 
 Make sure you update this antivirus programs on time.
 
