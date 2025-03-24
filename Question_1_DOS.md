@@ -3,11 +3,11 @@
 
 Dir is a command used to display the list of all the files and subfolders contained in a folder. These two websites show us how to use this command.
 
-One is from Microsoft learn,which is an authoritative website；the other one is the Lifewire.
+One is from an authoritative website ，Micosoft learn, the other one is from the Lifewire.
 
-Both of them show us what is the dir command used to,Syntax,what are the different Parameters display.And the most advantage is both of them give us several examples,which is good for beginners.
+Both of them show us what the dir command is used to, the syntax and what the different Parameters display.And the most advantage is both of them give us several examples,which is good for beginners.
 
-These two sites also give us the outline at the beginning of the article,so that we can quickly find what we want to find.
+These two articles also give us their outlines at the beginning ,so that we can quickly find what we want.
 
 The introduction on the first site,Microsoft Learn is quite normal，comprehensive and detailed；while the second one,Life Wire, is simple.
 
