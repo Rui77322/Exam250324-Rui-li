@@ -20,5 +20,10 @@ check all security options or employ some other antivirus programs available onl
 
 Make sure you update this antivirus programs on time.
 
+[why is my computer so slow from intel](https://www.intel.com/content/www/us/en/tech-tips-and-tricks/computer-running-slow.html)
+
+[six troubleshooting questions for slow computer from linkedin](https://www.linkedin.com/pulse/6-troubleshooting-questions-slow-computers-eric-rieger)
+
+[why is your pc slowing down and how to fix it from CNET](https://www.cnet.com/tech/computing/why-is-my-computer-so-slow/)
 
 
